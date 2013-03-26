@@ -3,4 +3,4 @@ PhDGala
 
 My PhD thesis
 
-After the PhD defense, all the LaTex files will be added to this repository.
+After all the works of my thesis will be published, all the LaTex files will be added to this repository.
