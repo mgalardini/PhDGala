@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="464px" height="473px" viewBox="0 0 464 473" enable-background="new 0 0 464 473" xml:space="preserve">
+<image overflow="visible" width="487" height="457" xlink:href="DB811DFF.jpg"  transform="matrix(0.9234 0 0 0.9234 21.3696 -12)">
+</image>
+<text transform="matrix(1 0 0 1 14 52)" font-family="'MyriadPro-Regular'" font-size="16" text-decoration=" underline">Out-paralogs</text>
+<text transform="matrix(1 0 0 1 305 460)" font-family="'MyriadPro-Regular'" font-size="16" text-decoration=" underline">In-paralogs</text>
+<g>
+	<line fill="#666666" x1="83" y1="65" x2="112" y2="141"/>
+	<g>
+		<line fill="none" stroke="#666666" stroke-width="3" stroke-miterlimit="10" x1="83" y1="65" x2="108.224" y2="131.105"/>
+		<g>
+			<polygon fill="#666666" points="112,141 100.982,129.231 107.942,130.365 112.375,124.883 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<line fill="#666666" x1="83" y1="65" x2="277" y2="156"/>
+	<g>
+		<line fill="none" stroke="#666666" stroke-width="3" stroke-miterlimit="10" x1="83" y1="65" x2="267.412" y2="151.502"/>
+		<g>
+			<polygon fill="#666666" points="277,156 260.899,155.183 266.695,151.166 266.078,144.143 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<line fill="#666666" x1="362.537" y1="446.597" x2="358.988" y2="408.038"/>
+	<g>
+		
+			<line fill="none" stroke="#666666" stroke-width="3" stroke-miterlimit="10" x1="362.537" y1="446.597" x2="359.959" y2="418.584"/>
+		<g>
+			<polygon fill="#666666" points="358.988,408.038 366.429,422.34 360.031,419.373 354.285,423.458 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<line fill="#666666" x1="362.686" y1="446.635" x2="305" y2="408"/>
+	<g>
+		<line fill="none" stroke="#666666" stroke-width="3" stroke-miterlimit="10" x1="362.686" y1="446.635" x2="313.8" y2="413.894"/>
+		<g>
+			<polygon fill="#666666" points="305,408 320.793,411.238 314.457,414.334 314.007,421.37 			"/>
+		</g>
+	</g>
+</g>
+<ellipse opacity="0.5" fill="none" stroke="#666666" stroke-width="3" stroke-miterlimit="10" cx="126.5" cy="333.5" rx="72.5" ry="33.5"/>
+<ellipse opacity="0.5" fill="none" stroke="#666666" stroke-width="3" stroke-miterlimit="10" cx="319.5" cy="349.5" rx="93.5" ry="54.5"/>
+</svg>

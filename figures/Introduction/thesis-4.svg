@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 15.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="597px" height="516px" viewBox="-4.237 -113.553 597 516" enable-background="new -4.237 -113.553 597 516"
+	 xml:space="preserve">
+<image overflow="visible" width="733" height="433" xlink:href="cog_kog.png"  transform="matrix(0.573 0 0 0.573 99.7632 143.0498)">
+</image>
+<image overflow="visible" width="800" height="529" xlink:href="annotation_cloud.png"  transform="matrix(0.3201 0 0 0.3201 322.647 -66.0908)">
+</image>
+<image overflow="visible" width="476" height="362" xlink:href="go.png"  transform="matrix(0.6282 0 0 0.6282 19.7632 -95.0908)">
+</image>
+<path fill="none" stroke="#000000" stroke-width="2" d="M584.763,381.99c0,6.88-6.188,12.457-13.824,12.457H18.705
+	c-7.636,0-13.825-5.575-13.825-12.457V-94.585c0-6.877,6.188-12.454,13.825-12.454h552.234c7.637,0,13.824,5.577,13.824,12.454
+	V381.99z"/>
+<text transform="matrix(1 0 0 1 11.0234 -72.125)" font-family="'MyriadPro-Regular'" font-size="23.5367">a)</text>
+<text transform="matrix(1 0 0 1 78.9668 159.8809)" font-family="'MyriadPro-Regular'" font-size="23.5367">c)</text>
+<text transform="matrix(1 0 0 1 322.6479 -72.125)" font-family="'MyriadPro-Regular'" font-size="23.5367">b)</text>
+</svg>
